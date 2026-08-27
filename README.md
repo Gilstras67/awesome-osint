@@ -1339,6 +1339,7 @@ algorithms, knowledgebase and AI technology.
 * [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, defence, governance) compiled from World Bank, UN, UNESCO and World Factbook, with each figure attributed to its source. 25 languages. Web reference only, no API or bulk download.
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](https://wiki.dbpedia.org)
+* [Egidio — Laboratoire des menaces](https://egidio.app/laboratoire/) - French-language corpus documenting confirmed and claimed data breaches, scams and fraud incidents in France; each entry dated, sourced, and tagged confirmed/claimed. CC BY 4.0.
 * [European Union Open Data Portal](https://open-data.europa.eu/en/data)
 * [Eurostat](https://ec.europa.eu/eurostat)
 * [Freebase](https://developers.google.com/freebase)
